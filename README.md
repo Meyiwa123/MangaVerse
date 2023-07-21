@@ -1,5 +1,4 @@
-# MangaDex Manga Viewer
-
+# MangaVerse: A MangaDex Manga Viewer
 
 ## Description
 
